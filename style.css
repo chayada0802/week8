@@ -1,0 +1,35 @@
+body{
+	background-color: rgb(112, 124, 215);
+}
+#nav-top{
+	width: 100%;
+	height: 50px;
+}
+
+#container{
+	width:100%;
+	display: flex;
+	justify-content: center;
+}
+
+#layer{
+	display: flex;
+	width:70%;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+
+#layer div{
+	width:200px;
+	border: 5px solid darkblue;
+	height: 400px;
+	margin: 1%;
+	text-align: center;
+	background-color:chocolate;
+}
+p{ color: darkblue;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 25px;
+font-style: oblique;
+}

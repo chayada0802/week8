@@ -1,0 +1,45 @@
+{
+	"top1":{
+		"brandname": "A.K.O Clothing",
+		"price":"200",
+		"pic":"top1.jpg"},
+	"top2":{
+		"brandname": "B.K.T Clothing",
+		"price":"500",
+		"pic":"top2.jpg"},
+
+	"top3":{
+		"brandname": "K.K.C. Clothing",
+		"price":"199",
+		"pic":"top3.jpg"},
+
+	"top4":{
+		"brandname": "F.F.K. Clothing",
+		"price":"299",
+		"pic":"top4.jpg"},
+
+	"top5":{
+		"brandname": "T.H.I. Clothing",
+		"price":"399",
+		"pic":"top5.jpg"},
+
+	"top6":{
+		"brandname": "K.U.K. Clothing",
+		"price":"515",
+		"pic":"top6.jpg"},
+
+	"top7":{
+		"brandname": "M.U.I. Clothing",
+		"price":"555",
+		"pic":"top7.jpg"},
+
+	"top8":{
+		"brandname": "A.T.K. Clothing",
+		"price":"111",
+		"pic":"top8.jpg"},
+
+	"top9":{
+		"brandname": "A.E.C. Clothing",
+		"price":"321",
+		"pic":"top9.jpg"}
+}
